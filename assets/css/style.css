@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-bottom: 10px;
+}
+
+.bottom{
+    margin-top: 20px;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
